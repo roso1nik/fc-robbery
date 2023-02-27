@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/fc-robbery/static/css/main.f724f7df.css",
-    "main.js": "/fc-robbery/static/js/main.cc02e779.js",
+    "main.css": "/fc-robbery/static/css/main.e2eda21c.css",
+    "main.js": "/fc-robbery/static/js/main.116eace2.js",
     "index.html": "/fc-robbery/index.html",
-    "main.f724f7df.css.map": "/fc-robbery/static/css/main.f724f7df.css.map",
-    "main.cc02e779.js.map": "/fc-robbery/static/js/main.cc02e779.js.map"
+    "main.e2eda21c.css.map": "/fc-robbery/static/css/main.e2eda21c.css.map",
+    "main.116eace2.js.map": "/fc-robbery/static/js/main.116eace2.js.map"
   },
   "entrypoints": [
-    "static/css/main.f724f7df.css",
-    "static/js/main.cc02e779.js"
+    "static/css/main.e2eda21c.css",
+    "static/js/main.116eace2.js"
   ]
 }
